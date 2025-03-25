@@ -1,4 +1,4 @@
-don't use this if you don't know what ur doing. this isn't a jailbreak. this will merely strap procursus. as of now no tweaks will work. hardly any packages. hardly any repos. for developers to mess about with. have fun 
+don't use this if you don't know what ur doing. this isn't a jailbreak. this will merely strap procursus. as of now no tweaks will work. hardly any packages. hardly any repos. for developers to mess about with. have fun .
 
 all this code is dog shit, it's thrown together with a knife and fork because quite frankly i don't give a fuck and neither should you. queen of ui design
 
